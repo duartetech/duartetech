@@ -12,6 +12,7 @@
 <div align="center">
     <p>
       <img height="25px" src="https://img.shields.io/badge/python-5499EB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+      <img height="25px" src="https://img.shields.io/badge/C-5499EB?style=for-the-badge&logo=C&logoColor=white" target="_blank">
       <img height="25px" src="https://img.shields.io/badge/html5-5499EB?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
       <img height="25px" src="https://img.shields.io/badge/css3-5499EB?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
       <img height="25px" src="https://img.shields.io/badge/javascript-5499EB?style=for-the-badge&logo=javascript&logoColor=white" target="_blank">
