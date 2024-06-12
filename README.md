@@ -4,8 +4,8 @@
   - 📫 Contate-me no e-mail: lucasduarte.tec@gmail.com
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duarte-tec&show_icons=true&theme=github_dark&hide_border=true&count_private=true" target="_blank" width="49%" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duarte-tec&size_weight=0.5&count_weight=1.0&layout=compact&theme=github_dark&hide_border=true&count_private=true" target="_blank" width="49%" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=duartetech&show_icons=true&theme=github_dark&hide_border=true&count_private=true" target="_blank" width="49%" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartetech&size_weight=0.5&count_weight=1.0&layout=compact&theme=github_dark&hide_border=true&count_private=true" target="_blank" width="49%" height="180px">
 </div>
 
 
