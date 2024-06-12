@@ -9,6 +9,6 @@
 </div>
 
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duarte-tec&theme=react-dark&hide_border=true&color=5499EB&title_color=5499EB&line=5499EB&point=5499EB&)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duartetechc&theme=react-dark&hide_border=true&color=5499EB&title_color=5499EB&line=5499EB&point=5499EB&)
 
 </div>
